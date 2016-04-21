@@ -1,4 +1,4 @@
-Android. Part III (Part II. ListView, RecyclerView
+Android. Part II. Fragments
 
 2. Поместить на fragment ScrollView и Button (кнопка должна быть всегда видна на
 экране). Программно поместить на него 10 полей типа EditText. Пользователь может
